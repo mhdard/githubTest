@@ -4,3 +4,6 @@ a
 w
 
 saya sedang belajar git dan github.
+
+Halo semua
+Asik juga git sama github kalo udah ngerti wkwkwk.
